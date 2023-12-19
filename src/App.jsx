@@ -1,5 +1,5 @@
 import './app.css'
-import Navbar from './section/nav/Navbar'
+import Navbar from './section/navbar/Navbar'
 import Projects from './section/portfolio/Projects'
 import Header from './section/header/Header'
 import About from './section/about/About'
