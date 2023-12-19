@@ -103,6 +103,7 @@ img:hover {
 .btn {
   display: inline-block;
   width: fit-content;
+
   display: flex;
   align-items: center;
   gap: 1em;
