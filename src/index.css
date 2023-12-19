@@ -136,6 +136,7 @@ img:hover {
   padding: 0.5rem1.2rem;
 }
 
+/* media querry */
 @media screen and (max-width: 1024px) {
   body {
     font-size: 1rem;
